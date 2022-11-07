@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  color-app:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-11-07T11:24:43.210641-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c763dcd1de17e36d5686cb34bda7db6290bfd91c9d061ef24d45fa421693159
+    name: color-app
+    type: application
+    urls:
+    - https://shot4free.github.io/color-app-helm-chart/color-app-helm-chart/color-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-07T11:24:43.209981-08:00"
